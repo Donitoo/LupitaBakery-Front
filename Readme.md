@@ -34,3 +34,5 @@ devuelto por sus clientes para poder entregar el tipo de pan que más se
 ajuste a las necesidades de su cliente.
 La imagen de la derecha muestra el organigrama de la empresa para
 este proyecto.
+
+# Colaboradores
