@@ -97,13 +97,13 @@
 
 
                 <div class="mb-3">
-                    <label for="exampleInputEmail1" class="form-label">Name</label>
+                    <label for="exampleInputEmail1" class="form-label">Nombre</label>
                     <input type="text" value="<?php echo $categorie_id ?>" class="form-control" id="dba" name="categorie_id" aria-describedby="emailHelp" hidden>
                     <input type="text" value="<?php echo $name ?>" class="form-control" id="dba" name="Name" aria-describedby="emailHelp">
 
                 </div>
               
-                <button type="submit" class="btn btn-primary">Submit</button>
+                <button type="submit" class="btn btn-primary">Guardar</button>
             </form>
         </div>
 
